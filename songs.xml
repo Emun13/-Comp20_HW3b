@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="song_style.css"?> 
+<Songs_Listings>
+	<heading>E-Moony Mixtapes</heading>
+	<mixtape type = "Song 1">
+		<title>Hotshower</title>
+		<artist>By: Chance the Rapper</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2019</released>
+	</mixtape>
+	<mixtape type = "Song 2">
+		<title>Slide Around</title>
+		<artist>By: Chance the Rapper</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2019</released>
+	</mixtape>
+	<mixtape type = "Song 3">
+		<title>Summer Friends</title>
+		<artist>By: Chance the Rapper, ft. Jeremih and Francis and the Lights</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2016</released>
+	</mixtape>
+	<mixtape type = "Song 4">
+		<title>All Night</title>
+		<artist>By: Chance the Rapper, ft. Knox Fortune</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2016</released>
+	</mixtape>
+	<mixtape type = "Song 5">
+		<title>Redbone</title>
+		<artist>By: Childish Gambino</artist>
+		<genre>Genre: Psychedelic Soul</genre>
+		<released>Released: 2016</released>
+	</mixtape>
+	<mixtape type = "Song 6">
+		<title>Sweatpants</title>
+		<artist>By: Childish Gambino</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2013</released>
+	</mixtape>
+	<mixtape type = "Song 7">
+		<title>Summertime Magic</title>
+		<artist>By: Childish Gambino</artist>
+		<genre>Genre: R and B/Sould</genre>
+		<released>Released: 2018</released>
+	</mixtape>
+	<mixtape type = "Song 8">
+		<title>This is America</title>
+		<artist>By: Chance the Rapper</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2018</released>
+	</mixtape>
+	<mixtape type = "Song 9">
+		<title>Drug Addicts</title>
+		<artist>By: Lil Pump</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2019</released>
+	</mixtape>
+	<mixtape type = "Song 10">
+		<title>Butterfly Doors</title>
+		<artist>By: Lil Pump</artist>
+		<genre>Genre: Rap</genre>
+		<released>Released: 2019</released>
+	</mixtape>
+</Songs_Listings>
+
+

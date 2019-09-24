@@ -1,0 +1,39 @@
+Songs_Listings {
+	position: relative;
+	color: #FFFFFF;
+	background-color: #000000;
+	padding-left: 15px;
+	background-image: url(pulse.jpg);
+	background-attachment: fixed;
+	background-position: 20px -150px;
+  	background-size: cover;
+}
+heading { 
+    color: #00CCFF; 
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 45px; 
+    text-decoration: underline;
+    padding-bottom: 20px;
+} 
+heading, title, artist, genre, released { 
+    display : block; 
+} 
+title {
+	font-size: 32px;
+	font-family: Impact;
+	word-spacing: 5px;
+	padding-bottom: 2px;
+}
+artist {
+	padding-bottom: 2px;
+	font-family: monospace;
+}
+genre {
+	padding-bottom: 2px;
+	font-family: monospace;
+}
+released {
+	padding-bottom: 20px;
+	font-family: monospace;
+}
